@@ -2,8 +2,6 @@
 
 Creating React Native app using expo
 
-# rn-assignment2-ID
-
 This is a simple React Native application created as part of an assignment. The task was to:
 
 - Change the background color of the View component.
